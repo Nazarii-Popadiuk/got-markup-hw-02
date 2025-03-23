@@ -87,6 +87,7 @@ link:focus {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
 }
 .name {
   font-weight: 500;
@@ -143,4 +144,7 @@ link:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.footer {
+  background-color: #2e2f42;
 }
