@@ -28,7 +28,7 @@ link:focus {
 .header-note {
   color: #2e2f42;
 }
-#nav-menu {
+.nav-menu {
   font-weight: 500;
   font-size: 16px;
 
@@ -50,7 +50,7 @@ link:focus {
 .address-header {
   font-style: normal;
 }
-.link:hover:focus:hover:focus {
+.link:hover:focus {
   color: #404bbf;
 }
 .first-section {
