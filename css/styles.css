@@ -37,9 +37,6 @@ link:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-menu:hover:focus {
-  color: #404bbf;
-}
 
 #address {
   font-weight: 400;
@@ -53,7 +50,7 @@ link:focus {
 .address-header {
   font-style: normal;
 }
-.address-header:hover:focus {
+.link:hover:focus:hover:focus {
   color: #404bbf;
 }
 .first-section {
@@ -78,10 +75,10 @@ link:focus {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
 .main-page-btn:hover:focus {
   background-color: #404bbf;
-  cursor: pointer;
 }
 .title-descr {
   font-weight: 500;
@@ -114,7 +111,7 @@ link:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.staff {
+#staff {
   background-color: #ffffff;
 }
 .name {
@@ -157,7 +154,7 @@ link:focus {
   color: #434455;
 }
 #footer-logo {
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
 
