@@ -87,6 +87,7 @@ link:focus {
   /* line-height: 24px; */
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .descr {
   font-weight: 400;
@@ -111,7 +112,7 @@ link:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-#staff {
+.list {
   background-color: #ffffff;
 }
 .name {
