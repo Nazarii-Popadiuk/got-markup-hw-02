@@ -77,7 +77,7 @@ link:focus {
   color: #ffffff;
   cursor: pointer;
 }
-.main-page-btn:hover:focus {
+.main-page-btn:hover {
   background-color: #404bbf;
 }
 .title-descr {
