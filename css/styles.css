@@ -50,7 +50,10 @@ link:focus {
 .address-header {
   font-style: normal;
 }
-.link:hover:focus {
+.link:hover {
+  color: #404bbf;
+}
+.link:focus {
   color: #404bbf;
 }
 .first-section {
@@ -78,6 +81,9 @@ link:focus {
   cursor: pointer;
 }
 .main-page-btn:hover {
+  background-color: #404bbf;
+}
+.main-page-btn:focus {
   background-color: #404bbf;
 }
 .title-descr {
